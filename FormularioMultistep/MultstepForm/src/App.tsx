@@ -1,4 +1,3 @@
-//componentes 
 import { GrFormNext, GrFormPrevious} from "react-icons/gr"
 import { UserForm } from "./componentes/UserForm";
 import ReviewForm from "./componentes/ReviewForm";
