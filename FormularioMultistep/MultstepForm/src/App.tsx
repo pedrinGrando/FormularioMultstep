@@ -3,7 +3,7 @@ import { UserForm } from "./componentes/UserForm";
 import ReviewForm from "./componentes/ReviewForm";
 import Thanks from "./componentes/Thanks";
 
-//hooks
+//React Hooks
 import { useForm } from "./hooks/useForm";
 
 // css
